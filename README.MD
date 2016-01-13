@@ -1,7 +1,9 @@
 gradient
-=======
+========
 
-## shortcuts
+![](preview.jpg)
+
+### shortcuts
 
 - `j` or `k` change min depth [--,++]
 - `u` or `i` change max depth [--,++]
@@ -15,7 +17,7 @@ gradient
 - `LEFT` or  `RIGHT` next/previous gradient
 - `TOP` or  `BOTTOM` change camera tilt
 
-## data
+### data
 
 **folder structure**
 ```
